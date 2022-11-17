@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ansh
 - 👀 I’m interested in Web Development
-- 🌱 I’m looking to collaborate on any development based project.
+- 🌱 Happy to collaborate on any development based project.
 - 📫 Check out my <a href="https://www.linkedin.com/in/ansh-khattar-b3077918b" target="_blank">LinkedIn</a> profile.
 - ⚡ Check out my <a href="https://anshkhattar.netlify.app/" target="_blank">website</a>.
 
