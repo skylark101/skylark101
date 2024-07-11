@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
-
+<!---
 <br><br>
 
 <a href="https://github.com/skylark101/github-readme-stats">
@@ -36,7 +36,7 @@
 <a href="https://github.com/skylark101/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skylark101&layout=compact&theme=radical">    
 </a> 
-<!---
+
 skylark101/skylark101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
