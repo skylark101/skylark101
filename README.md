@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ansh
 - 👀 I’m a Full Stack Developer
 - 🌱 Happy to collaborate on any development based project.
-- 📫 Check out my <a href="https://www.linkedin.com/in/ansh-khattar-b3077918b" target="_blank">LinkedIn</a> profile.
+- 📫 I can be found here: <a href="https://www.linkedin.com/in/ansh-khattar-b3077918b" target="_blank">LinkedIn</a>
 
 
 <br>
